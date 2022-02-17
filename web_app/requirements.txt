@@ -1,0 +1,6 @@
+tweepy
+flask
+geopy
+geopandas
+matplotlib
+adjustText
