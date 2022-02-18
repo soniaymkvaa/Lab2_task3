@@ -36,3 +36,6 @@ def my_form_post():
     buf.seek(0)
 
     return send_file(buf, mimetype='image/jpg')
+
+if __name__ == '__main__':
+    app.run()
